@@ -1,4 +1,4 @@
-# Zack890924-Reinforcement-Learning-with-PPO-and-Pygame
+Reinforcement-Learning-with-PPO-and-Pygame
 
 Welcome to the Reinforcement Learning with PPO and PygaFinal project for the NTNU Reinforcement Learning course.
 env.py is for creating the environment game.py is for the game created by pygame main.py is for training the agent to play with the environment and it also can be the code to test out the agent
